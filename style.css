@@ -84,8 +84,9 @@ button{
     color: white;
 }
 
-.icon{
+.iconbuttona{
     margin-right: 10px;
+    cursor: pointer;
 }
 
 @media(max-width:600px){
@@ -99,7 +100,7 @@ button{
     }
 
     .img2{
-        display: ruby;
+        display: block;
         height: 100%;
         width: 100%;
     }
